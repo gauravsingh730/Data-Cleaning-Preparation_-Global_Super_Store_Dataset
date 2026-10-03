@@ -1,7 +1,7 @@
 # Data-Cleaning-Preparation_-Global_Super_Store_Dataset
 Data Cleaning & Preparation by Excel
 
-# Sales Data Cleaning Using Microsoft Excel
+# Sales Data Cleaning Using Microsoft Excel & Power Query
 
 ## Project Description
 
@@ -10,7 +10,7 @@ This project was completed as part of my **Data Analyst Internship at SWYNEX Tec
 The objective was to identify and resolve common data quality issues and prepare the sales dataset for further analysis using **Microsoft Excel**.
 
 ## Tools Used
-- Microsoft Excel
+- Microsoft Excel & Power Query
 
 ## Dataset Information
 
