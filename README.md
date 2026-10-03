@@ -1,3 +1,4 @@
+# SWYNEX Technologies
 # Data-Cleaning-Preparation_-Global_Super_Store_Dataset
 Data Cleaning & Preparation by Excel
 
